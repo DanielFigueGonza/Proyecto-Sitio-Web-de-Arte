@@ -10,9 +10,14 @@ Editor:
  
   -Bootstrap
   
-  -Django
-  
 Lenguaje utilizado:
 
   -JavaScript
+  
+  -HTML(Etiquetas)
+  
+  -CSS (Estilos)
 
+Servicio:
+
+-Django
