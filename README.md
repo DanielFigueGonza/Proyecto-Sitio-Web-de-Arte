@@ -4,12 +4,15 @@ Dentro de este repositorio se encuentra el desarrollo de un sitio web básico en
 
 Editor:
 
-  Visual Studio Code
+  -Visual Studio Code
   
  Framework:
  
-  Bootstrap
-  Django
+  -Bootstrap
   
-Lenguaje utilizado
+  -Django
+  
+Lenguaje utilizado:
+
+  -JavaScript
 
